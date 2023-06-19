@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dVYOeau1b9p2qki5v/1maNQQTeCgwVOp5ygEbmkQdhQtblcRUWXgOo75PROKSPrbAUcajHtmcIOr7Y4IiU7r/g==",
+  "dgSpecHash": "vlQEdICRGtvg3KOryo1ut0+C9ipCsWMxjrnAZk+uyoKDm7i/SzDqLBvFPJavcv0N3Ro6XOZ8NQjaq/133vjCUQ==",
   "success": true,
-  "projectFilePath": "D:\\source\\wpf\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
+  "projectFilePath": "D:\\source\\exam\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PC10\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\PC10\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

@@ -476,11 +476,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\source\\wpf\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
+      "projectUniqueName": "D:\\source\\exam\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
       "projectName": "WPF_LoginForm",
-      "projectPath": "D:\\source\\wpf\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
+      "projectPath": "D:\\source\\exam\\WPF_LoginForm\\WPF_LoginForm\\WPF_LoginForm.csproj",
       "packagesPath": "C:\\Users\\PC10\\.nuget\\packages\\",
-      "outputPath": "D:\\source\\wpf\\WPF_LoginForm\\WPF_LoginForm\\obj\\",
+      "outputPath": "D:\\source\\exam\\WPF_LoginForm\\WPF_LoginForm\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Nevron Software\\Nevron Open Vision 2022.3\\NugetPackage"

@@ -61,7 +61,7 @@ namespace WPF_LoginForm.CustomControls {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WPF_LoginForm;V1.0.0.0;component/customcontrols/bindablepasswordbox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/WPF_LoginForm;component/customcontrols/bindablepasswordbox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\CustomControls\BindablePasswordBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
