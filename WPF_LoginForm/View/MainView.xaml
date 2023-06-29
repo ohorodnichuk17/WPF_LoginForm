@@ -4,8 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_LoginForm.View"
-        xmlns:viewModel="clr-namespace:WPF_LoginForm.ViewModels"
         xmlns:viewmodel="clr-namespace:WPF_LoginForm.MVVM.ViewModel"
+        d:DataContext="{d:DesignInstance Type=viewmodel:MainViewModel}"
         mc:Ignorable="d"
         Height="650" Width="1200"
         Background="#36393F"
@@ -14,7 +14,7 @@
         ResizeMode="CanResizeWithGrip">
 
     <Window.DataContext>
-        <viewModel:MainViewModel/>
+        <viewmodel:MainViewModel/>
     </Window.DataContext>
 
     <Grid>
@@ -87,7 +87,7 @@
                    Margin="8,0,0,0"
                    FontFamily="Montserrat"/>
 
-            <ListView ItemsSource="{Binding Contacts}"
+            <ListView ItemsSource="{Binding Contacts }"
                       SelectedItem="{Binding SelectedContact}"
                       Background="Transparent"
                       BorderThickness="0"
